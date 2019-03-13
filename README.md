@@ -28,9 +28,9 @@ There are many ways to generalize the project. For example:
 
 1. Consider using sin instead of cos or more generally cos(... + constant phase). This adds a constant phase shift to the spherical waves.
 
-2. The formula for $T(x, y)$ above assumes different points in the point cloud are in phase. What can you do if you give different points different phases?
+2. The formula for $T(x, y)$ above assumes different points in the point cloud are in-phase. What can you do if you give different points different phases?
 
-3. A point cloud uses points to make out a shape. What if you use other elements, such as lines, squares, or other geometric shapes, as building blocks? Can you write a word that hovers in space?
+3. A point cloud uses points to make out a shape. What if you use other elements, such as lines, squares, or other geometric shapes, as building blocks? Can you write a word that hovers mid-air?
 
 4. What if you play with the amplitudes of the points in your point cloud (or other elements) as well as the locations? What can you create?
 
