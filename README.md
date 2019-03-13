@@ -20,7 +20,7 @@ The main program is pointcloud.m, which generates diffraction masks for a user-d
 
 ## Laser safety
 
-DO NOT LOOK INTO THE LASER unless you have reduced the laser intensity using ND filters AND you are wearing the correct goggles for the laser you are using. You may also want to put the point cloud off the main axis, so that when you observe the point cloud you won't be looking directly into the laser.
+DO NOT LOOK INTO THE LASER unless you have sufficiently reduced the laser intensity using ND filters AND you are wearing the correct goggles for the laser you are using. You may also want to put the point cloud off the main axis, so that when you observe the point cloud you won't be looking directly into the laser.
 
 ## Generalization
 
@@ -30,6 +30,8 @@ There are many ways to generalize the project. For example:
 
 2. The formula for $T(x, y)$ above assumes different points in the point cloud are in phase. What can you do if you give different points different phases?
 
-3. A point cloud uses points to make out a shape. Can you use other elements, such as lines, as building blocks?
+3. A point cloud uses points to make out a shape. What if you use other elements, such as lines, squares, or other geometric shapes, as building blocks? Can you write a word that hovers in space?
 
-4. How do you make the point cloud safe to view? Can you help one view one of the point clouds without being distracted by the other (inverted partner)?
+4. What if you play with the amplitudes of the points in your point cloud (or other elements) as well as the locations? What can you create?
+
+4. How can you make the point cloud safe to view? Can you help one view one of the point clouds without being distracted by the other (the inverted partner)?
