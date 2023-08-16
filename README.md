@@ -10,7 +10,7 @@ $$A(x, y) = \frac{1}{2} + \frac{1}{2} \cos(k \sqrt{x^2 + y^2 + f^2})$$
 
 Notice how the cosine can be written as a sum
 
-$$\cos(k \sqrt{x^2 + y^2 + f^2}) = \frac{1}{2} (e^{i k \sqrt{x^2 + y^2 + f^2}} + e^{-i k \sqrt{x^2 + y^2 + f^2})$$
+$$\cos(k \sqrt{x^2 + y^2 + f^2}) = \frac{1}{2} (e^{i k \sqrt{x^2 + y^2 + f^2}} + e^{-i k \sqrt{x^2 + y^2 + f^2}})$$
 
 The second term is the wave front of a converging spherical wave and will create a point source at a distance of $f$ in front of the mask. The first term is the wave front of a diverging spherical wave and will create the virtual image of a point source at a distance of $f$ behind the mask.
 
